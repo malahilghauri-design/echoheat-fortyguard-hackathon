@@ -1,0 +1,4 @@
+,threshold_c,r,p_value
+cooling_load_mw,44.14,0.957,0.0
+delivery_delay_min,44.64,0.867,0.0
+worker_incident_flag,36.64,0.83,0.0

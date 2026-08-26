@@ -1,0 +1,107 @@
+[
+  {
+    "unit_id": "V101",
+    "action": "V101 pre-cooling initiated, target 22\u00b0C",
+    "status": "completed",
+    "wbgt_at_trigger": 42.88,
+    "timestamp": "2026-06-04 11:00:00"
+  },
+  {
+    "unit_id": "V103",
+    "action": "V103 re-routed via thermal corridor",
+    "status": "in progress",
+    "wbgt_at_trigger": 42.1,
+    "timestamp": "2026-06-04 10:00:00"
+  },
+  {
+    "unit_id": "V102",
+    "action": "V102 backup unit dispatched",
+    "status": "completed",
+    "wbgt_at_trigger": 43.11,
+    "timestamp": "2026-06-21 14:00:00"
+  },
+  {
+    "unit_id": "V101",
+    "action": "V101 WBGT threshold exceeded, rest interval triggered",
+    "status": "completed",
+    "wbgt_at_trigger": 46.45,
+    "timestamp": "2026-06-26 14:00:00"
+  },
+  {
+    "unit_id": "V103",
+    "action": "V103 pre-cooling cycle complete",
+    "status": "completed",
+    "wbgt_at_trigger": 43.58,
+    "timestamp": "2026-06-13 13:00:00"
+  },
+  {
+    "unit_id": "V103",
+    "action": "V103 fleet reroute: units shifted to safe corridor",
+    "status": "completed",
+    "wbgt_at_trigger": 42.01,
+    "timestamp": "2026-06-23 14:00:00"
+  },
+  {
+    "unit_id": "V103",
+    "action": "V103 pre-cooling initiated, target 22\u00b0C",
+    "status": "completed",
+    "wbgt_at_trigger": 44.54,
+    "timestamp": "2026-06-18 11:00:00"
+  },
+  {
+    "unit_id": "V103",
+    "action": "V103 re-routed via thermal corridor",
+    "status": "in progress",
+    "wbgt_at_trigger": 42.94,
+    "timestamp": "2026-06-25 14:00:00"
+  },
+  {
+    "unit_id": "V103",
+    "action": "V103 backup unit dispatched",
+    "status": "completed",
+    "wbgt_at_trigger": 43.08,
+    "timestamp": "2026-06-24 10:00:00"
+  },
+  {
+    "unit_id": "V103",
+    "action": "V103 WBGT threshold exceeded, rest interval triggered",
+    "status": "completed",
+    "wbgt_at_trigger": 45.16,
+    "timestamp": "2026-06-21 11:00:00"
+  },
+  {
+    "unit_id": "V103",
+    "action": "V103 pre-cooling cycle complete",
+    "status": "completed",
+    "wbgt_at_trigger": 44.01,
+    "timestamp": "2026-06-19 13:00:00"
+  },
+  {
+    "unit_id": "V102",
+    "action": "V102 fleet reroute: units shifted to safe corridor",
+    "status": "completed",
+    "wbgt_at_trigger": 47.74,
+    "timestamp": "2026-06-24 12:00:00"
+  },
+  {
+    "unit_id": "V101",
+    "action": "V101 pre-cooling initiated, target 22\u00b0C",
+    "status": "completed",
+    "wbgt_at_trigger": 47.14,
+    "timestamp": "2026-06-23 12:00:00"
+  },
+  {
+    "unit_id": "V102",
+    "action": "V102 re-routed via thermal corridor",
+    "status": "in progress",
+    "wbgt_at_trigger": 42.25,
+    "timestamp": "2026-06-24 13:00:00"
+  },
+  {
+    "unit_id": "V102",
+    "action": "V102 backup unit dispatched",
+    "status": "completed",
+    "wbgt_at_trigger": 41.94,
+    "timestamp": "2026-06-24 09:00:00"
+  }
+]
